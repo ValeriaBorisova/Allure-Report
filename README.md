@@ -13,5 +13,5 @@ Task №1 - Wake up (Allure)
 * Произведена проверка генерации отчетов
 _______________________
 
-!Screenshots о генерации отчета в Allure закоеплены в Issues!
+!Screenshots о генерации отчета в Allure закреплены в Issues!
 
